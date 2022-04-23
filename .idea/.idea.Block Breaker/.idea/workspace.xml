@@ -20,33 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="413bbe54-93a1-49c0-bbda-11cf8a079c57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Impact Particle.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Impact Particle.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Particle Star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Particle Star.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/1 hit Breakable Block Variant.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/1 hit Breakable Block Variant.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/2 hit Breakable Block Variant.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/2 hit Breakable Block Variant.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/3 hit Breakable Block.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/3 hit Breakable Block.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Impact VFX.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Impact VFX.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Unbreakable Block.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Unbreakable Block.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Level 3.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Level 3.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/1366x768.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/1366x768.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Green Button 01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Green Button 01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Grey button 01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Grey button 01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Orange Button 01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Orange Button 01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Block Square 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Block Square 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Block Square.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Block Square.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/1 hit Breakable Block Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/1 hit Breakable Block Variant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/2 hit Breakable Block Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/2 hit Breakable Block Variant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/3 hit Breakable Block.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/3 hit Breakable Block.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game Session.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Game Session.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Paddle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Paddle.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Play Space.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Play Space.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game Over.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game Over.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start Menu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Ball.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Ball.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Block.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Block.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/GameSession.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/GameSession.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Level.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Level.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Paddle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Paddle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Block Broken 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Block Broken 1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Block Broken 2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Block Broken 2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ball3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ball3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +57,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Script/Level.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Iskandar/Documents/Unity Projects/Unity 2D/Block Breaker/Assets/Script/Ball.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://diff.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3BE1A7FF-939C-43F1-81C0-A10B5A0189AC/94/f07ab646/Component.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3BE1A7FF-939C-43F1-81C0-A10B5A0189AC/e2/270547d6/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://diff.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4FF5A06-2D2B-4F0F-8B2D-2CFA2DDD7F34/fe/5731d591/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/GameSession.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Paddle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Ball.cs" root0="FORCE_HIGHLIGHTING" />
@@ -72,12 +69,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.git/info/exclude" />
         <option value="$PROJECT_DIR$/Assets/Script/Level.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/GameSession.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Paddle.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Block.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Ball.cs" />
-        <option value="$PROJECT_DIR$/.git/info/exclude" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameSession.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Paddle.cs" />
       </list>
     </option>
   </component>
@@ -135,6 +132,8 @@
       <workItem from="1649862851654" duration="1012000" />
       <workItem from="1649864148535" duration="17174000" />
       <workItem from="1650181070632" duration="18390000" />
+      <workItem from="1650697873524" duration="3087000" />
+      <workItem from="1650701199063" duration="4415000" />
     </task>
     <servers />
   </component>
@@ -191,9 +190,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1650616354403" />
-    <state x="346" y="49" key="search.everywhere.popup" timestamp="1650212636058">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1650708283285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1650212636058" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1650708283285" />
   </component>
 </project>

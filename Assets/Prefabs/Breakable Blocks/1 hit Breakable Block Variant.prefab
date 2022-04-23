@@ -12,6 +12,14 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6205738010654983465, guid: 4beca3dd396218e4db1097513d0d1a95, type: 3}
+      propertyPath: maxHints
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6205738010654983465, guid: 4beca3dd396218e4db1097513d0d1a95, type: 3}
+      propertyPath: timesHit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6205738010654983465, guid: 4beca3dd396218e4db1097513d0d1a95, type: 3}
       propertyPath: hitSprites.Array.size
       value: 0
       objectReference: {fileID: 0}
