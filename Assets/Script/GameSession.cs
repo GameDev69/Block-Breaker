@@ -6,14 +6,16 @@ using TMPro;
 public class GameSession : MonoBehaviour
 {
 
-    // comfig params
+    #region comfig params
     [Range(0.1f, 10f)] [SerializeField] float gameSpeed  = 1f;
     [SerializeField] int pointsPerBlock = 83;
     [SerializeField] TextMeshProUGUI scoreText;
     [SerializeField] private bool isAutoPlayEnabled;
+    #endregion
 
-    //state vars
+    #region state vars
     [SerializeField] int currentScore = 0;
+    #endregion
 
     private void Awake()
     {

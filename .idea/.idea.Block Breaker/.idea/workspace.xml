@@ -22,30 +22,11 @@
     <list default="true" id="413bbe54-93a1-49c0-bbda-11cf8a079c57" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Block Square 1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Block Square 1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Block Square.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Block Square.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/1 hit Breakable Block Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/1 hit Breakable Block Variant.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/2 hit Breakable Block Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/2 hit Breakable Block Variant.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/3 hit Breakable Block.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Breakable Blocks/3 hit Breakable Block.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game Session.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Game Session.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Paddle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Paddle.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Play Space.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Play Space.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game Over.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game Over.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start Menu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Ball.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Ball.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Block.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Block.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/GameSession.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/GameSession.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Level.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Level.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Paddle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Paddle.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Block Broken 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Block Broken 1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Block Broken 2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Block Broken 2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ball3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ball3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +51,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.git/info/exclude" />
-        <option value="$PROJECT_DIR$/Assets/Script/Level.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Block.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Ball.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/GameSession.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Paddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameSession.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Ball.cs" />
       </list>
     </option>
   </component>
@@ -133,7 +114,8 @@
       <workItem from="1649864148535" duration="17174000" />
       <workItem from="1650181070632" duration="18390000" />
       <workItem from="1650697873524" duration="3087000" />
-      <workItem from="1650701199063" duration="4415000" />
+      <workItem from="1650701199063" duration="4829000" />
+      <workItem from="1650717476650" duration="1868000" />
     </task>
     <servers />
   </component>

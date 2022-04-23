@@ -4,12 +4,13 @@ using UnityEngine;
 
 public class Level : MonoBehaviour
 {
-    // params
+    #region params
     [SerializeField] int breakableBlocks; // serialized for debaggung
+    #endregion
 
-    // cached refs
+    #region cached refs
     SceneLoader sceneLoader;
-
+    #endregion
 
 
     private void Start()

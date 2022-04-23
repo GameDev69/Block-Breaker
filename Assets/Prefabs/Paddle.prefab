@@ -152,3 +152,4 @@ MonoBehaviour:
   screenWidthInUnits: 21
   minX: 1
   maxX: 20
+  padding: 1.25

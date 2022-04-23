@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Ball : MonoBehaviour
 {
+    // Пробный комент
     #region config params
     [SerializeField] Paddle paddle1;
     [SerializeField] float xPush = 2f;
