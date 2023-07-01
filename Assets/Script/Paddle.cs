@@ -9,25 +9,25 @@ public class Paddle : MonoBehaviour
     #endregion
     
     #region cached refs
-    GameSession findObjectOfType;
-    Ball objectOfType;
+    GameSession _gameSession;
+    Ball _ball;
     private float _xMin;
     private float _xMax;
     private float _yMin;
     private float _yMax;
-    Camera gameCamera;
+    Camera _gameCamera;
 
     #endregion
 
-    void Start()
+    private void Start()
     {
-        findObjectOfType = FindObjectOfType<GameSession>();
-        objectOfType = FindObjectOfType<Ball>();
+        _gameSession = FindObjectOfType<GameSession>();
+        _ball = FindObjectOfType<Ball>();
         SetUpMoveBoundaries();
-        gameCamera = Camera.main;
+        _gameCamera = Camera.main;
     }
 
-    void Update()
+    private void Update()
     {
         Vector2 paddlePos = new Vector2(transform.position.x, transform.position.y);
         paddlePos.x = Mathf.Clamp(GetXPos(), _xMin, _xMax);
@@ -37,9 +37,9 @@ public class Paddle : MonoBehaviour
     private float GetXPos()
     {
         
-        if (findObjectOfType.IsAutoPlaEnabled())
+        if (_gameSession.IsAutoPlaEnabled())
         {
-            return objectOfType.transform.position.x;
+            return _ball.transform.position.x;
         }
         else
         {
@@ -49,7 +49,7 @@ public class Paddle : MonoBehaviour
     
     private void SetUpMoveBoundaries()
     {
-        _xMin = gameCamera.ViewportToWorldPoint(new Vector3(0, 0, 0)).x + padding;
-        _xMax = gameCamera.ViewportToWorldPoint(new Vector3(1, 0, 0)).x - padding;
+        _xMin = _gameCamera.ViewportToWorldPoint(new Vector3(0, 0, 0)).x + padding;
+        _xMax = _gameCamera.ViewportToWorldPoint(new Vector3(1, 0, 0)).x - padding;
     }
 }

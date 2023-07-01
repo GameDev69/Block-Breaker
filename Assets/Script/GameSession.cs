@@ -14,7 +14,7 @@ public class GameSession : MonoBehaviour
     #endregion
 
     #region state vars
-    [SerializeField] int currentScore = 0;
+    [SerializeField] int currentScore;
     #endregion
 
     private void Awake()
@@ -36,19 +36,18 @@ public class GameSession : MonoBehaviour
         scoreText.text = currentScore.ToString();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
         Time.timeScale = gameSpeed;
     }
 
-    public void addToScore()
+    public void AddToScore()
     {
         currentScore += pointsPerBlock;
         scoreText.text = currentScore.ToString();
     }
 
-    public void resetGame()
+    public void ResetGame()
     {
         Destroy(gameObject);
     }

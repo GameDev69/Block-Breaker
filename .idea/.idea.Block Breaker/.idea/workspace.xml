@@ -20,13 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="413bbe54-93a1-49c0-bbda-11cf8a079c57" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Block Breaker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Paddle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Paddle.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Ball.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Ball.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Block.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Block.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/GameSession.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/GameSession.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Level.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Level.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Paddle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Paddle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SceneLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SceneLoader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +41,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Level.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3BE1A7FF-939C-43F1-81C0-A10B5A0189AC/94/f07ab646/Component.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3BE1A7FF-939C-43F1-81C0-A10B5A0189AC/e2/270547d6/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4FF5A06-2D2B-4F0F-8B2D-2CFA2DDD7F34/fe/5731d591/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/GameSession.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Paddle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Ball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Paddle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameSession.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Block.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -52,10 +53,10 @@
       <list>
         <option value="$PROJECT_DIR$/.git/info/exclude" />
         <option value="$PROJECT_DIR$/Assets/Script/Block.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Paddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Ball.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Level.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/GameSession.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Paddle.cs" />
       </list>
     </option>
   </component>
@@ -115,7 +116,8 @@
       <workItem from="1650181070632" duration="18390000" />
       <workItem from="1650697873524" duration="3087000" />
       <workItem from="1650701199063" duration="4829000" />
-      <workItem from="1650717476650" duration="1868000" />
+      <workItem from="1650717476650" duration="2463000" />
+      <workItem from="1660372885999" duration="9365000" />
     </task>
     <servers />
   </component>

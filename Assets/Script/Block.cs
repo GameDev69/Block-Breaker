@@ -80,7 +80,7 @@ public class Block : MonoBehaviour
         // Уничтожение объекта
         Destroy(gameObject);
         // Увеличить счёт
-        _gameStatus.addToScore();
+        _gameStatus.AddToScore();
         // Уменьшить количество блоков в статистике
         _level.BlockDestroyed();
         // Визуальный эффект

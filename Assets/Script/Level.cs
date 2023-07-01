@@ -9,13 +9,13 @@ public class Level : MonoBehaviour
     #endregion
 
     #region cached refs
-    SceneLoader sceneLoader;
+    SceneLoader _sceneLoader;
     #endregion
 
 
     private void Start()
     {
-        sceneLoader = FindObjectOfType<SceneLoader>();
+        _sceneLoader = FindObjectOfType<SceneLoader>();
     }
 
     public void CountBlocks()
@@ -28,7 +28,7 @@ public class Level : MonoBehaviour
         breakableBlocks--;
         if(breakableBlocks <= 0)
         {
-            sceneLoader.LoadNextScene();
+            _sceneLoader.LoadNextScene();
         }
     }
 }
